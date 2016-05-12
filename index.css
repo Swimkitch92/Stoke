@@ -1,0 +1,98 @@
+body {
+  background-image: url('http://www.tbwnz.com/image26/lkwbqcdqoqdensluqjvk.jpg');
+}
+
+form{
+  margin: 0 auto;
+  margin-top: 130px;
+}
+
+#imageContainer{
+  display:block;
+  width:100%;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.input {
+  display: block;
+  width: 300px;
+  text-align: center;
+  margin: 0 auto;
+  height: 50px;
+  line-height: 20px;
+  font-size: 1.9em;
+  background: rgba(255, 255, 255, 0.1);
+  border: none;
+}
+
+.input:focus {
+  outline: none;
+}
+
+#imageContainer img {
+  margin-left: 70px;
+}
+
+#counties {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+
+span{
+  padding-left: 30px;
+  font-size: 1.6em;
+}
+
+#submit {
+  display: block;
+  margin: 0 auto;
+  height: 50px;
+  width: 140px;
+  font-size: 1.2em;
+  margin-top: 20px;
+}
+
+.unclicked {
+  font-weight: none;
+  color: inherit;
+}
+
+.toggleWhite {
+  color: white;
+  font-weight: 600;
+}
+
+.toggleImage {
+  background-image: url('http://nobullnutrition.co/wp-content/uploads/2016/04/water-background-42.jpg');
+  background-size: cover;
+}
+
+#select {
+  font-size: 1.4em;
+  display: block;
+  width: 27%;
+  margin: 0 auto;
+  margin-top: 15px;
+}
+#mainContainer {
+  color: black;
+  width: 50%;
+  margin: 0 auto;
+}
+.conditionResult {
+  width: 20%;
+  margin: 0 auto;
+  color: blue;
+  border: 1px dashed red;
+}
+#countiesContainer{
+  border: 1px solid black;
+}
+#conditionsContainer {
+  width: 30%;
+  margin: 0 auto;
+  border: 1px dotted blue;
+}
